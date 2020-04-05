@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_1x1c.label>mesa (1x1)</Table_1x1c.label>
+  <Table_1x1c.description>As pessoas comem nas mesas quando as cadeiras são colocadas de frente para elas.</Table_1x1c.description>
+  <Table_1x1c_Blueprint.label>mesa (1x1) (projeto)</Table_1x1c_Blueprint.label>
+  <Table_1x1c_Blueprint_Install.label>mesa (1x1) (projeto)</Table_1x1c_Blueprint_Install.label>
+  <Table_1x1c_Frame.label>mesa (1x1) (construção)</Table_1x1c_Frame.label>
+  <Table_1x1c_Frame.description>As pessoas comem nas mesas quando as cadeiras são colocadas de frente para elas.</Table_1x1c_Frame.description>
+
+  <Table_Counter.label>bancada</Table_Counter.label>
+  <Table_Counter.description>Uma superficie lisa na altura da cintura usado para comer, comumente encontrada em cozinhas e bares.</Table_Counter.description>
+  <Table_Counter_Blueprint.label>bancada (projeto)</Table_Counter_Blueprint.label>
+  <Table_Counter_Blueprint_Install.label>bancada (projeto)</Table_Counter_Blueprint_Install.label>
+  <Table_Counter_Frame.label>bancada (construção)</Table_Counter_Frame.label>
+  <Table_Counter_Frame.description>Uma superficie lisa na altura da cintura usado para comer, comumente encontrada em cozinhas e bares.</Table_Counter_Frame.description>
+
+</LanguageData>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Kingsize.label>cama com dossel nobre</Bed_Kingsize.label>
+  <Bed_Kingsize.description>Uma cama adequada para um rei, dossel com ouro incrustado e um alto descanso de cabeça. Extremamente confortável e bonito, é um verdadeiro luxo. Serve para duas pessoas.</Bed_Kingsize.description>
+  <Bed_Kingsize_Blueprint.label>cama com dossel nobre (projeto)</Bed_Kingsize_Blueprint.label>
+  <Bed_Kingsize_Blueprint_Install.label>cama com dossel nobre (projeto)</Bed_Kingsize_Blueprint_Install.label>
+  <Bed_Kingsize_Frame.label>cama com dossel nobre (construção)</Bed_Kingsize_Frame.label>
+  <Bed_Kingsize_Frame.description>Uma cama adequada para um rei, dossel com ouro incrustado e um alto descanso de cabeça. Extremamente confortável e bonito, é um verdadeiro luxo. Serve para duas pessoas.</Bed_Kingsize_Frame.description>
+
+  <Table_RoyalEndTable.label>mesa de canto nobre</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>Uma pequena mesa de cabeceira , acessório de luxo adornada com ouro , tornando as camas mais confortáveis. Deve ser colocado diretamente ao lado da cabeceira da cama. Colocar mais de uma mesa perto da mesma cama não tem efeito.</Table_RoyalEndTable.description>
+  <Table_RoyalEndTable_Blueprint.label>mesa de canto nobre (projeto)</Table_RoyalEndTable_Blueprint.label>
+  <Table_RoyalEndTable_Blueprint_Install.label>mesa de canto nobre (projeto)</Table_RoyalEndTable_Blueprint_Install.label>
+  <Table_RoyalEndTable_Frame.label>mesa de canto nobre (construção)</Table_RoyalEndTable_Frame.label>
+  <Table_RoyalEndTable_Frame.description>Uma pequena mesa de cabeceira , acessório de luxo adornada com ouro , tornando as camas mais confortáveis. Deve ser colocado diretamente ao lado da cabeceira da cama. Colocar mais de uma mesa perto da mesma cama não tem efeito.</Table_RoyalEndTable_Frame.description>
+
+  <Table_RoyalDresser.label>cômoda nobre</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>Uma cômoda luxuosa, adornada com ouro maciço e um design elegante, tornando as camas mais confortáveis. Colocar mais de uma cômoda perto da mesma cama não tem efeito.</Table_RoyalDresser.description>
+  <Table_RoyalDresser_Blueprint.label>cômoda nobre (projeto)</Table_RoyalDresser_Blueprint.label>
+  <Table_RoyalDresser_Blueprint_Install.label>cômoda nobre (projeto)</Table_RoyalDresser_Blueprint_Install.label>
+  <Table_RoyalDresser_Frame.label>cômoda nobre (construção)</Table_RoyalDresser_Frame.label>
+  <Table_RoyalDresser_Frame.description>Uma cômoda luxuosa, adornada com ouro maciço e um design elegante, tornando as camas mais confortáveis. Colocar mais de uma cômoda perto da mesma cama não tem efeito.</Table_RoyalDresser_Frame.description>
+
+  <Seat_RoyalChair.label>cadeira nobre</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>Um assento confortável com acolchoado traseiro grande e macio dentro de uma moldura dourada. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_RoyalChair.description>
+  <Seat_RoyalChair_Blueprint.label>cadeira nobre (projeto)</Seat_RoyalChair_Blueprint.label>
+  <Seat_RoyalChair_Blueprint_Install.label>cadeira nobre (projeto)</Seat_RoyalChair_Blueprint_Install.label>
+  <Seat_RoyalChair_Frame.label>cadeira nobre (construção)</Seat_RoyalChair_Frame.label>
+  <Seat_RoyalChair_Frame.description>Um assento confortável com acolchoado traseiro grande e macio dentro de uma moldura dourada. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_RoyalChair_Frame.description>
+
+  <Seat_RoyalArmchair.label>poltrona nobre</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>Um assento grande, macio e luxuoso. Dentro de uma moldura dourada apenas para as elites mais ricas. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_RoyalArmchair.description>
+  <Seat_RoyalArmchair_Blueprint.label>poltrona nobre (projeto)</Seat_RoyalArmchair_Blueprint.label>
+  <Seat_RoyalArmchair_Blueprint_Install.label>poltrona nobre (projeto)</Seat_RoyalArmchair_Blueprint_Install.label>
+  <Seat_RoyalArmchair_Frame.label>poltrona nobre (construção)</Seat_RoyalArmchair_Frame.label>
+  <Seat_RoyalArmchair_Frame.description>Um assento grande, macio e luxuoso. Dentro de uma moldura dourada apenas para as elites mais ricas. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_RoyalArmchair_Frame.description>
+
+  <Table_Royal1x1c.label>mesa nobre (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal1x1c.description>
+  <Table_Royal1x1c_Blueprint.label>mesa nobre (1x1) (projeto)</Table_Royal1x1c_Blueprint.label>
+  <Table_Royal1x1c_Blueprint_Install.label>mesa nobre (1x1) (projeto)</Table_Royal1x1c_Blueprint_Install.label>
+  <Table_Royal1x1c_Frame.label>mesa nobre (1x1) (construção)</Table_Royal1x1c_Frame.label>
+  <Table_Royal1x1c_Frame.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal1x1c_Frame.description>
+
+  <Table_Royal2x2c.label>mesa nobre (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal2x2c.description>
+  <Table_Royal2x2c_Blueprint.label>mesa nobre (2x2) (projeto)</Table_Royal2x2c_Blueprint.label>
+  <Table_Royal2x2c_Blueprint_Install.label>mesa nobre (2x2) (projeto)</Table_Royal2x2c_Blueprint_Install.label>
+  <Table_Royal2x2c_Frame.label>mesa nobre (2x2) (construção)</Table_Royal2x2c_Frame.label>
+  <Table_Royal2x2c_Frame.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal2x2c_Frame.description>
+
+  <Table_Royal1x2c.label>mesa nobre (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal1x2c.description>
+  <Table_Royal1x2c_Blueprint.label>mesa nobre (1x2) (projeto)</Table_Royal1x2c_Blueprint.label>
+  <Table_Royal1x2c_Blueprint_Install.label>mesa nobre (1x2) (projeto)</Table_Royal1x2c_Blueprint_Install.label>
+  <Table_Royal1x2c_Frame.label>mesa nobre (1x2) (construção)</Table_Royal1x2c_Frame.label>
+  <Table_Royal1x2c_Frame.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal1x2c_Frame.description>
+
+  <Table_Royal3x3c.label>mesa nobre (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal3x3c.description>
+  <Table_Royal3x3c_Blueprint.label>mesa nobre (3x3) (projeto)</Table_Royal3x3c_Blueprint.label>
+  <Table_Royal3x3c_Blueprint_Install.label>mesa nobre (3x3) (projeto)</Table_Royal3x3c_Blueprint_Install.label>
+  <Table_Royal3x3c_Frame.label>mesa nobre (3x3) (construção)</Table_Royal3x3c_Frame.label>
+  <Table_Royal3x3c_Frame.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal3x3c_Frame.description>
+
+  <Table_Royal2x4c.label>mesa nobre (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal2x4c.description>
+  <Table_Royal2x4c_Blueprint.label>mesa nobre (2x4) (projeto)</Table_Royal2x4c_Blueprint.label>
+  <Table_Royal2x4c_Blueprint_Install.label>mesa nobre (2x4) (projeto)</Table_Royal2x4c_Blueprint_Install.label>
+  <Table_Royal2x4c_Frame.label>mesa nobre (2x4) (construção)</Table_Royal2x4c_Frame.label>
+  <Table_Royal2x4c_Frame.description>Uma mesa de aparência impressionante usada para comer, sendo esta completa com uma borda externa dourada e extremidades arredondadas, adequadas para os ricos.</Table_Royal2x4c_Frame.description>
+
+</LanguageData>

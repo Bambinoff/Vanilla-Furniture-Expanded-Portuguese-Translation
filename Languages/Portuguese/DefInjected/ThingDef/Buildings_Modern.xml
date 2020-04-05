@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Ergonomic.label>cama ergonômica</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>Uma cama ergonomicamente projetada para ajudar a apoiar a coluna vertebral, distribuir o peso corporal e melhorar a qualidade do sono em geral.</Bed_Ergonomic.description>
+  <Bed_Ergonomic_Blueprint.label>cama ergonômica (projeto)</Bed_Ergonomic_Blueprint.label>
+  <Bed_Ergonomic_Blueprint_Install.label>cama ergonômica (projeto)</Bed_Ergonomic_Blueprint_Install.label>
+  <Bed_Ergonomic_Frame.label>cama ergonômica (construção)</Bed_Ergonomic_Frame.label>
+  <Bed_Ergonomic_Frame.description>Uma cama ergonomicamente projetada para ajudar a apoiar a coluna vertebral, distribuir o peso corporal e melhorar a qualidade do sono em geral.</Bed_Ergonomic_Frame.description>
+
+  <Bed_DoubleErgonomic.label>cama de casal ergonômica</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>Uma cama de casal ergonomicamente projetada para ajudar a apoiar a coluna vertebral, distribuir o peso corporal e melhorar a qualidade do sono em geral. Serve para duas pessoas.</Bed_DoubleErgonomic.description>
+  <Bed_DoubleErgonomic_Blueprint.label>cama de casal ergonômica (projeto)</Bed_DoubleErgonomic_Blueprint.label>
+  <Bed_DoubleErgonomic_Blueprint_Install.label>cama de casal ergonômica (projeto)</Bed_DoubleErgonomic_Blueprint_Install.label>
+  <Bed_DoubleErgonomic_Frame.label>cama de casal ergonômica (construção)</Bed_DoubleErgonomic_Frame.label>
+  <Bed_DoubleErgonomic_Frame.description>Uma cama de casal ergonomicamente projetada para ajudar a apoiar a coluna vertebral, distribuir o peso corporal e melhorar a qualidade do sono em geral. Serve para duas pessoas.</Bed_DoubleErgonomic_Frame.description>
+
+  <Table_Wardrobe.label>guarda roupa</Table_Wardrobe.label>
+  <Table_Wardrobe.description>Um guarda roupa alto para guardar roupas e outros itens. Dá um pequeno bônus de eficácia do sono a todas as camas próximas. Colocar mais de um armário perto da mesma cama não tem efeito.</Table_Wardrobe.description>
+  <Table_Wardrobe_Blueprint.label>guarda roupa (projeto)</Table_Wardrobe_Blueprint.label>
+  <Table_Wardrobe_Blueprint_Install.label>guarda roupa (projeto)</Table_Wardrobe_Blueprint_Install.label>
+  <Table_Wardrobe_Frame.label>guarda roupa (construção)</Table_Wardrobe_Frame.label>
+  <Table_Wardrobe_Frame.description>Um guarda roupa alto para guardar roupas e outros itens. Dá um pequeno bônus de eficácia do sono a todas as camas próximas. Colocar mais de um armário perto da mesma cama não tem efeito.</Table_Wardrobe_Frame.description>
+
+  <Seat_ModernChair.label>cadeira ergonômica</Seat_ModernChair.label>
+  <Seat_ModernChair.description>Uma cadeira ergonômica flexivel projetada para se ajustar as curvas do corpo humano, melhorando o conforto.</Seat_ModernChair.description>
+  <Seat_ModernChair_Blueprint.label>cadeira ergonômica (projeto)</Seat_ModernChair_Blueprint.label>
+  <Seat_ModernChair_Blueprint_Install.label>cadeira ergonômica (projeto)</Seat_ModernChair_Blueprint_Install.label>
+  <Seat_ModernChair_Frame.label>cadeira ergonômica (construção)</Seat_ModernChair_Frame.label>
+  <Seat_ModernChair_Frame.description>Uma cadeira ergonômica flexivel projetada para se ajustar as curvas do corpo humano, melhorando o conforto.</Seat_ModernChair_Frame.description>
+
+  <Light_ModernLamp.label>luminária moderna</Light_ModernLamp.label>
+  <Light_ModernLamp.description>Uma lâmpada econômica, que converte mais efetivamente eletricidade em luz, útil para iluminar ambientes. Curto-circuito na chuva.</Light_ModernLamp.description>
+  <Light_ModernLamp_Blueprint.label>luminária moderna (projeto)</Light_ModernLamp_Blueprint.label>
+  <Light_ModernLamp_Blueprint_Install.label>luminária moderna (projeto)</Light_ModernLamp_Blueprint_Install.label>
+  <Light_ModernLamp_Frame.label>luminária moderna (construção)</Light_ModernLamp_Frame.label>
+  <Light_ModernLamp_Frame.description>Uma lâmpada econômica, que converte mais efetivamente eletricidade em luz, útil para iluminar ambientes. Curto-circuito na chuva.</Light_ModernLamp_Frame.description>
+
+</LanguageData>

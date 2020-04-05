@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>VFE Core (Tradução Português)</name>
+    <author>Bambino</author>
+    <supportedVersions>
+      <li>1.0</li>
+	  <li>1.1</li>
+    </supportedVersions>
+	<packageId>Bambino.TradVFECore</packageId>
+	 <modDependencies>
+        <li>
+            <packageId>VanillaExpanded.VFECore</packageId>
+            <displayName>Vanilla Furniture Expanded</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1718190143</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>VanillaExpanded.VFECore</li>
+    </loadAfter>
+    <description>Adiciona uma tradução em português ao mod "Vanilla Furniture Expanded" de Oskar Potocki.
+ Compativel com <b>PortugueseBrazilian (Português Brasileiro)</b> e <b>Portuguese (Português Europeu)</b>
+<b>Atenção</b> Esse mod não inclui o mod original, somente arquivos da tradução em português estão incluidos. 
+ Vanilla Furniture Expanded deve estar listado na lista de mods antes da tradução em português
+Core
+<b>Vanilla Furniture Expanded</b>
+Vanilla Furniture Expanded (Portuguese Translation)
+</description>
+</ModMetaData>

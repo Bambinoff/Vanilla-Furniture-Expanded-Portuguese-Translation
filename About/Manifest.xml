@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <version>1.1.2</version>
+  <targetVersions>
+    <li>1.0.0</li>
+    <li>1.1.2579</li>
+  </targetVersions>
+  <dependencies><li>vanillaexpanded.vfecore</li></dependencies>
+  <incompatibleWith></incompatibleWith>
+  <loadBefore></loadBefore>
+  <loadAfter><li>vanillaexpanded.vfecore</li></loadAfter>
+  <manifestUri></manifestUri>
+  <downloadUri></downloadUri>
+</Manifest>

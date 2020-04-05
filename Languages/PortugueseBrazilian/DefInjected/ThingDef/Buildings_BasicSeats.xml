@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Seat_Cushion.label>Almofada de chão</Seat_Cushion.label>
+  <Seat_Cushion.description>Uma almofada simples para sentar, popular entre as tribos. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_Cushion.description>
+  <Seat_Cushion_Blueprint.label>almofada de chão (projeto)</Seat_Cushion_Blueprint.label>
+  <Seat_Cushion_Blueprint_Install.label>almofada de chão (projeto)</Seat_Cushion_Blueprint_Install.label>
+  <Seat_Cushion_Frame.label>almofada de chão (construção)</Seat_Cushion_Frame.label>
+  <Seat_Cushion_Frame.description>Uma almofada simples para sentar, popular entre as tribos. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_Cushion_Frame.description>
+
+  <Seat_Bench.label>banco</Seat_Bench.label>
+  <Seat_Bench.description>Uma plataforma longa e simples na qual várias pessoas podem se sentar ao mesmo tempo, não muito confortáveis, mas muito melhores que nada. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_Bench.description>
+  <Seat_Bench_Blueprint.label>banco (projeto)</Seat_Bench_Blueprint.label>
+  <Seat_Bench_Blueprint_Install.label>banco (projeto)</Seat_Bench_Blueprint_Install.label>
+  <Seat_Bench_Frame.label>banco (construção)</Seat_Bench_Frame.label>
+  <Seat_Bench_Frame.description>Uma plataforma longa e simples na qual várias pessoas podem se sentar ao mesmo tempo, não muito confortáveis, mas muito melhores que nada. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_Bench_Frame.description>
+
+  <Seat_SquareChair.label>cadeira quadrada</Seat_SquareChair.label>
+  <Seat_SquareChair.description>Uma cadeira confortável e bonita não utilizado especificamente para jantar. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_SquareChair.description>
+  <Seat_SquareChair_Blueprint.label>cadeira quadrada (projeto)</Seat_SquareChair_Blueprint.label>
+  <Seat_SquareChair_Blueprint_Install.label>cadeira quadrada (projeto)</Seat_SquareChair_Blueprint_Install.label>
+  <Seat_SquareChair_Frame.label>cadeira quadrada (construção)</Seat_SquareChair_Frame.label>
+  <Seat_SquareChair_Frame.description>Uma cadeira confortável e bonita não utilizado especificamente para jantar. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_SquareChair_Frame.description>
+
+</LanguageData>

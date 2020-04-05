@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <AirConditioningUnit.label>aparelho de ar condicionado</AirConditioningUnit.label>
+    <AirConditioningUnit.description>Uma máquina de refrigeração a ar que se encaixa na parede. Sem forçar o ar quente para outra sala. Pode ser usado para resfriar salas durante o verão ou para criar um freezer.</AirConditioningUnit.description>
+<AirConditioningUnit_Blueprint.label>aparelho de ar condicionado (projeto)</AirConditioningUnit_Blueprint.label>
+<AirConditioningUnit_Blueprint_Install.label>aparelho de ar condicionado (projeto)</AirConditioningUnit_Blueprint_Install.label>
+<AirConditioningUnit_Frame.label>aparelho de ar condicionado (construção)</AirConditioningUnit_Frame.label>
+    <AirConditioningUnit_Frame.description>Uma máquina de refrigeração a ar que se encaixa na parede. Sem forçar o ar quente para outra sala. Pode ser usado para resfriar salas durante o verão ou para criar um freezer.</AirConditioningUnit_Frame.description>
+
+</LanguageData>

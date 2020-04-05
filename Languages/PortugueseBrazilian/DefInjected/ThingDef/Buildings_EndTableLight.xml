@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_LightEndTable.label>mesa de canto com luminária</Table_LightEndTable.label>
+  <Table_LightEndTable.description>Uma pequena mesa de cabeceira com uma luminária, tornando as camas próximas mais confortáveis. Deve ser colocado diretamente ao lado da cabeceira da cama. Colocar mais de uma mesa perto da mesma cama não tem efeito.</Table_LightEndTable.description>
+  <Table_LightEndTable_Blueprint.label>mesa de canto com luminária (projeto)</Table_LightEndTable_Blueprint.label>
+  <Table_LightEndTable_Blueprint_Install.label>mesa de canto com luminária (projeto)</Table_LightEndTable_Blueprint_Install.label>
+  <Table_LightEndTable_Frame.label>mesa de canto com luminária (construção)</Table_LightEndTable_Frame.label>
+  <Table_LightEndTable_Frame.description>Uma pequena mesa de cabeceira com uma luminária, tornando as camas próximas mais confortáveis. Deve ser colocado diretamente ao lado da cabeceira da cama. Colocar mais de uma mesa perto da mesma cama não tem efeito.</Table_LightEndTable_Frame.description>
+
+</LanguageData>

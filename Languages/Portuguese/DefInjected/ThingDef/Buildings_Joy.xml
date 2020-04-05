@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Radio_Industrial.label>rádio industrial</Radio_Industrial.label>
+  <Radio_Industrial.description>Um dispositivo antigo de uma época passada, é capaz de captar ondas de rádio e reproduzi-las. Mesmo no mundo periférico, geralmente há um transmissor antigo ou uma estação de rádio solitária transmitindo algo.</Radio_Industrial.description>
+  <Radio_Industrial_Blueprint.label>rádio industrial (projeto)</Radio_Industrial_Blueprint.label>
+  <Radio_Industrial_Blueprint_Install.label>Industrielles Radio (projeto)</Radio_Industrial_Blueprint_Install.label>
+  <Radio_Industrial_Frame.label>rádio industrial (construção)</Radio_Industrial_Frame.label>
+  <Radio_Industrial_Frame.description>Um dispositivo antigo de uma época passada, é capaz de captar ondas de rádio e reproduzi-las. Mesmo nos mundos periféricos, geralmente há um transmissor antigo ou uma estação de rádio solitária transmitindo algo.</Radio_Industrial_Frame.description>
+
+  <Radio_Spacer.label>rádio de ondas longas</Radio_Spacer.label>
+  <Radio_Spacer.description>Um receptor de rádio de alta tecnologia capaz de captar sinais muito fracos e reproduzi-los com qualidade muito claro.</Radio_Spacer.description>
+  <Radio_Spacer_Blueprint.label>rádio de ondas longas (projeto)</Radio_Spacer_Blueprint.label>
+  <Radio_Spacer_Blueprint_Install.label>rádio de ondas longas (projeto)</Radio_Spacer_Blueprint_Install.label>
+  <Radio_Spacer_Frame.label>rádio de ondas longas (construção)</Radio_Spacer_Frame.label>
+  <Radio_Spacer_Frame.description>Um receptor de rádio de alta tecnologia capaz de captar sinais muito fracos e reproduzi-los com qualidade muito claro.</Radio_Spacer_Frame.description>
+
+  <Joy_Arcade.label>máquina de arcade</Joy_Arcade.label>
+  <Joy_Arcade.description>Um gabinete alto que contém um pequeno monitor de raios catódicos e um painel de controle para jogar uma variedade de jogos pré-instalados.</Joy_Arcade.description>
+  <Joy_Arcade_Blueprint.label>máquina de arcade (projeto)</Joy_Arcade_Blueprint.label>
+  <Joy_Arcade_Blueprint_Install.label>máquina de arcade (projeto)</Joy_Arcade_Blueprint_Install.label>
+  <Joy_Arcade_Frame.label>máquina de arcade (construção)</Joy_Arcade_Frame.label>
+  <Joy_Arcade_Frame.description>Um gabinete alto que contém um pequeno monitor de raios catódicos e um painel de controle para jogar uma variedade de jogos pré-instalados.</Joy_Arcade_Frame.description>
+
+  <Joy_InudstrialComputer.label>computador antigo</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>Um computador de mesa baseado em um design antigo, muito ineficiente e propenso a falhas. Dá um pequeno impulso ao aprendizado após o uso.</Joy_InudstrialComputer.description>
+  <Joy_InudstrialComputer_Blueprint.label>computador antigo (projeto)</Joy_InudstrialComputer_Blueprint.label>
+  <Joy_InudstrialComputer_Blueprint_Install.label>computador antigo (projeto)</Joy_InudstrialComputer_Blueprint_Install.label>
+  <Joy_InudstrialComputer_Frame.label>computador antigo (construção)</Joy_InudstrialComputer_Frame.label>
+  <Joy_InudstrialComputer_Frame.description>Um computador de mesa baseado em um design antigo, muito ineficiente e propenso a falhas. Dá um pequeno impulso ao aprendizado após o uso.</Joy_InudstrialComputer_Frame.description>
+
+  <Joy_ModernComputer.label>computador moderno</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>Um computador de alta tecnologia que utiliza um monitor LCD e peças com melhor desempenho e menos propensas a falhas. Dá um impulso ao aprendizado após o uso.</Joy_ModernComputer.description>
+  <Joy_ModernComputer_Blueprint.label>computador moderno (projeto)</Joy_ModernComputer_Blueprint.label>
+  <Joy_ModernComputer_Blueprint_Install.label>computador moderno (projeto)</Joy_ModernComputer_Blueprint_Install.label>
+  <Joy_ModernComputer_Frame.label>computador moderno (construção)</Joy_ModernComputer_Frame.label>
+  <Joy_ModernComputer_Frame.description>Um computador de alta tecnologia que utiliza um monitor LCD e peças com melhor desempenho e menos propensas a falhas. Dá um impulso ao aprendizado após o uso.</Joy_ModernComputer_Frame.description>
+
+  <Joy_Piano.label>Piano</Joy_Piano.label>
+  <Joy_Piano.description>Um grande piano tocável para praticar, bastante agradável e é uma ótima maneira de desenvolver talento artistico.</Joy_Piano.description>
+  <Joy_Piano_Blueprint.label>Piano (projeto)</Joy_Piano_Blueprint.label>
+  <Joy_Piano_Blueprint_Install.label>Piano (projeto)</Joy_Piano_Blueprint_Install.label>
+  <Joy_Piano_Frame.label>Piano (construção)</Joy_Piano_Frame.label>
+  <Joy_Piano_Frame.description>Um grande piano tocável para praticar, bastante agradável e é uma ótima maneira de desenvolver talento artistico.</Joy_Piano_Frame.description>
+
+  <Joy_RouletteTable.label>mesa de roleta</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>Uma mesa com carpete macio e um roda para jogar roleta, uma boa maneira de treinar suas habilidades sociais e sorte.</Joy_RouletteTable.description>
+  <Joy_RouletteTable_Blueprint.label>mesa de roleta (projeto)</Joy_RouletteTable_Blueprint.label>
+  <Joy_RouletteTable_Blueprint_Install.label>mesa de roleta (projeto)</Joy_RouletteTable_Blueprint_Install.label>
+  <Joy_RouletteTable_Frame.label>mesa de roleta (construção)</Joy_RouletteTable_Frame.label>
+  <Joy_RouletteTable_Frame.description>Uma mesa com carpete macio e um roda para jogar roleta, uma boa maneira de treinar suas habilidades sociais e sorte.</Joy_RouletteTable_Frame.description>
+
+  <Joy_DartsBoard.label>jogo de dardos</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>Um jogo popular no mundo periférico, que envolve arremessar dardos em um alvo circular, é relaxante e treina as habilidades de tiro a uma taxa mais alta do que ferraduras ou anel de pedra.</Joy_DartsBoard.description>
+  <Joy_DartsBoard_Blueprint.label>jogo de dardos (projeto)</Joy_DartsBoard_Blueprint.label>
+  <Joy_DartsBoard_Blueprint_Install.label>jogo de dardos (projeto)</Joy_DartsBoard_Blueprint_Install.label>
+  <Joy_DartsBoard_Frame.label>jogo de dardos (construção)</Joy_DartsBoard_Frame.label>
+  <Joy_DartsBoard_Frame.description>Um jogo popular no mundo periférico, que envolve arremessar dardos em um alvo circular, é relaxante e treina as habilidades de tiro a uma taxa mais alta do que ferraduras ou anel de pedra.</Joy_DartsBoard_Frame.description>
+
+  <Joy_PunchingBag.label>saco de pancadas</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>Um saco de pancadas cheio de tecido para liberar a raiva. Pode ser bastante calmante e ajuda a treinar a habilidade corpo a corpo.</Joy_PunchingBag.description>
+  <Joy_PunchingBag_Blueprint.label>saco de pancadas (projeto)</Joy_PunchingBag_Blueprint.label>
+  <Joy_PunchingBag_Blueprint_Install.label>saco de pancadas (projeto)</Joy_PunchingBag_Blueprint_Install.label>
+  <Joy_PunchingBag_Frame.label>saco de pancadas (construção)</Joy_PunchingBag_Frame.label>
+  <Joy_PunchingBag_Frame.description>Um saco de pancadas cheio de tecido para liberar a raiva. Pode ser bastante calmante e ajuda a treinar a habilidade corpo a corpo.</Joy_PunchingBag_Frame.description>
+
+</LanguageData>

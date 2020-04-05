@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Light_Streetlamp.label>poste de luz</Light_Streetlamp.label>
+  <Light_Streetlamp.description>Uma lâmpada elétrica alta que ilumina uma área, capaz de ser colocada do lado de fora sem pegar fogo, tornando-a ideal para iluminação de estradas e só acende a noite.</Light_Streetlamp.description>
+  <Light_Streetlamp.comps.2.offMessage>Desligado durante o dia</Light_Streetlamp.comps.2.offMessage>
+  <Light_Streetlamp_Blueprint.label>Poste de luz (projeto)</Light_Streetlamp_Blueprint.label>
+  <Light_Streetlamp_Blueprint_Install.label>poste de luz (projeto)</Light_Streetlamp_Blueprint_Install.label>
+  <Light_Streetlamp_Frame.label>poste de luz (construção)</Light_Streetlamp_Frame.label>
+  <Light_Streetlamp_Frame.description>Uma lâmpada elétrica alta que ilumina uma área, capaz de ser colocada do lado de fora sem pegar fogo, tornando-a ideal para iluminação de estradas e só acende a noite.</Light_Streetlamp_Frame.description>
+
+  <Misc_FileCabinet.label>armário de arquivo</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>Uma peça de mobiliário usada para organizar documentos e registros em papel.</Misc_FileCabinet.description>
+  <Misc_FileCabinet_Blueprint.label>armário de arquivo (projeto)</Misc_FileCabinet_Blueprint.label>
+  <Misc_FileCabinet_Blueprint_Install.label>armário de arquivo (projeto)</Misc_FileCabinet_Blueprint_Install.label>
+  <Misc_FileCabinet_Frame.label>armário de arquivo (construção)</Misc_FileCabinet_Frame.label>
+  <Misc_FileCabinet_Frame.description>Uma peça de mobiliário usada para organizar documentos e registros em papel.</Misc_FileCabinet_Frame.description>
+
+  <Stone_Campfire.label>fogueira de pedra</Stone_Campfire.label>
+  <Stone_Campfire.description>Cozinha refeições, mas produz menos calor, e mais luz, queima mais devagar que a fogueira comum. Como em todas as fontes de calor, ele deve ser colocado dentro de casa, para ter um espaço fechado para aquecer. Reabastecivel. Reabastecivel.</Stone_Campfire.description>
+  <Stone_Campfire_Blueprint.label>fogueira de pedra (projeto)</Stone_Campfire_Blueprint.label>
+  <Stone_Campfire_Frame.label>fogueira de pedra (construção)</Stone_Campfire_Frame.label>
+  <Stone_Campfire_Frame.description>Cozinha refeições, mas produz menos calor, e mais luz, queima mais devagar que a fogueira comum. Como em todas as fontes de calor, ele deve ser colocado dentro de casa, para ter um espaço fechado para aquecer. Reabastecivel.</Stone_Campfire_Frame.description>
+
+  <Shelf_1x1c.label>prateleira (1x1)</Shelf_1x1c.label>
+  <Shelf_1x1c.description>Uma pequena prateleira para armazenar itens diversos. Itens armazenados nisto não irão se deteriorar, mesmo se no lado de fora.</Shelf_1x1c.description>
+  <Shelf_1x1c_Blueprint.label>prateleira (1x1) (projeto)</Shelf_1x1c_Blueprint.label>
+  <Shelf_1x1c_Blueprint_Install.label>prateleira (1x1) (projeto)</Shelf_1x1c_Blueprint_Install.label>
+  <Shelf_1x1c_Frame.label>prateleira (1x1) (construção)</Shelf_1x1c_Frame.label>
+  <Shelf_1x1c_Frame.description>Uma pequena prateleira para armazenar itens diversos. Itens armazenados nisto não irão se deteriorar, mesmo se no lado de fora.</Shelf_1x1c_Frame.description>
+
+  <Shelf_WeaponRack.label>porta-arma</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>Uma prateleira resistente para armazenar armas. As armas armazenadas nisto não irão se deteriorar, mesmo se no lado de fora.</Shelf_WeaponRack.description>
+  <Shelf_WeaponRack_Blueprint.label>porta-arma (projeto)</Shelf_WeaponRack_Blueprint.label>
+  <Shelf_WeaponRack_Blueprint_Install.label>porta-arma (projeto)</Shelf_WeaponRack_Blueprint_Install.label>
+  <Shelf_WeaponRack_Frame.label>porta-arma (construção)</Shelf_WeaponRack_Frame.label>
+  <Shelf_WeaponRack_Frame.description>Uma prateleira resistente para armazenar armas. As armas armazenadas nisto não irão se deteriorar, mesmo se no lado de fora.</Shelf_WeaponRack_Frame.description>
+
+  <Bin_Small.label>lixeira</Bin_Small.label>
+  <Bin_Small.description>Uma pequena lixeira para ajudar a manter a área ao seu redor um pouco limpa. Remove lentamente o lixo e a sujeira em um raio de 10 células.</Bin_Small.description>
+  <Bin_Small_Blueprint.label>lixeira (projeto)</Bin_Small_Blueprint.label>
+  <Bin_Small_Blueprint_Install.label>lixeira (projeto)</Bin_Small_Blueprint_Install.label>
+  <Bin_Small_Frame.label>lixeira (construção)</Bin_Small_Frame.label>
+  <Bin_Small_Frame.description>Uma pequena lixeira para ajudar a manter a área ao seu redor um pouco limpa. Remove lentamente o lixo e a sujeira em um raio de 10 células.</Bin_Small_Frame.description>
+
+  <Bin_Large.label>container de lixo</Bin_Large.label>
+  <Bin_Large.description>Um container de lixo grande para ajudar a manter a área ao redor limpa. Remove lentamente o lixo e a sujeira em um raio de 20 células.</Bin_Large.description>
+  <Bin_Large_Blueprint.label>container de lixo (projeto)</Bin_Large_Blueprint.label>
+  <Bin_Large_Blueprint_Install.label>container de lixo (projeto)</Bin_Large_Blueprint_Install.label>
+  <Bin_Large_Frame.label>container de lixo (construção)</Bin_Large_Frame.label>
+  <Bin_Large_Frame.description>Um container de lixo grande para ajudar a manter a área ao redor limpa. Remove lentamente o lixo e a sujeira em um raio de 20 células.</Bin_Large_Frame.description>
+
+</LanguageData>
